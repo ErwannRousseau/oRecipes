@@ -69,6 +69,3 @@ yarn start
 
 3. Maintenant vous avez acces à un onglet "Recettes favorites" dans le menu, et sur cette page vous y retrouverez les recettes favorites
 
-#### À venir
-
-Ajout d'une fonctionnalité qui permettra aux utilisateurs d'ajouter des recettes à leurs favoris et gestion du thème en fonction de leurs préférences définies.
