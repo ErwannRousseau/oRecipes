@@ -2,7 +2,7 @@
 
 ![screen shot overview of oRecipes](./screenshot.png)
 
-**oRecipes** oRecipes is a website project dedicated to culinary recipes. Powered by Express for the API, React and SCSS for the front-end to offer a user-friendly experience and connection management with JWT token.
+**oRecipes** is a website project dedicated to culinary recipes. Powered by Express for the API, React and SCSS for the front-end to offer a user-friendly experience and connection management with JWT token.
 
 ### Step 1: Installing dependencies
 
